@@ -1,4 +1,4 @@
-# api-urbangrocers-tripleten
+# Descripción
 Pruebas de API para aplicación Urban.Grocers
 Practicum – TripleTen LatAm.
 - Verificación de endpoints con Postman, comprobando códigos de estado HTTP y respuestas en formato JSON.
